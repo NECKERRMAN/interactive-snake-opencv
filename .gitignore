@@ -1,0 +1,14 @@
+./DS_Store
+.DS_Store
+
+.__pycache__
+__pycache__
+
+build/
+dist/
+env/
+*.spec
+*.exec
+
+setup.py
+*.test.py
